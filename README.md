@@ -24,4 +24,4 @@ First file best score:
 
 Second file score progress:
     - adding pipleines and kfold:
-         - LightGBM	8.756784347866576
+         - LightGBM	8.756784347866576 
